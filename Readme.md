@@ -1,0 +1,1 @@
+This is a 3D game the player can create, destroy and colour blocks. It was built using OpenGL, for the needs of the "Graphics" course.
